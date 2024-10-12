@@ -1,4 +1,3 @@
-// src/api/pokemon.ts
 import { API_BASE_URL } from '../config';
 
 export interface PokemonListResult {
